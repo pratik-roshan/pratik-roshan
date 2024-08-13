@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working as **Associate Software Developer**
 
-- 🌱 I’m currently learning **SQL, Flask, Django**
+- 🌱 Currently Working On **Python**
+
+- 💬 Ask me about **SQL, Python, Flask, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratik-roshan?tab=repositories](https://github.com/pratik-roshan?tab=repositories)
 
